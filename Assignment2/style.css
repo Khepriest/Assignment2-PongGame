@@ -1,0 +1,12 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	background-image: url("microsoftHilld.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	color:black
+	
+}
+canvas{
+	border-radius: 18px;
+}
